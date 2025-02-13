@@ -40,4 +40,4 @@ jobs:
           username: ${{ secrets.SERVER_USER }}
           password: ${{ secrets.SERVER_PASSWORD }}
           source: 'dist/assets/'
-          target: '/home/hautauspalvelu.demolink.fi/public_html/wp-content/plugins/valolink-vuejs-wp-plugin-starter'
+          target: '/home/hautauspalvelu.demolink.fi/public_html/wp-content/plugins/valolink-vuejs-wp-plugin-starter/'
